@@ -1,0 +1,30 @@
+# depslib dependency file v1.0
+1602557275 source:c:\users\hp\desktop\actividad_8\laboratorio.cpp
+	"laboratorio.h"
+
+1602557190 c:\users\hp\desktop\actividad_8\laboratorio.h
+	"computadora.h"
+
+1602557268 c:\users\hp\desktop\actividad_8\computadora.h
+	<iostream>
+
+1602557248 source:c:\users\hp\desktop\actividad_8\main.cpp
+	<iostream>
+	"laboratorio.h"
+
+1602557516 source:c:\users\hp\desktop\actividad_8\computadora.cpp
+	"computadora.h"
+
+1602557516 source:c:\users\hp\desktop\actividad_8\actividad_8\computadora.cpp
+	"computadora.h"
+
+1602824329 c:\users\hp\desktop\actividad_8\actividad_8\computadora.h
+	<iostream>
+	<iomanip>
+
+1602824363 source:c:\users\hp\desktop\actividad_8\actividad_8\laboratorio.cpp
+	"laboratorio.h"
+
+1602823992 c:\users\hp\desktop\actividad_8\actividad_8\laboratorio.h
+	"computadora.h"
+
